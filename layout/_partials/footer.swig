@@ -15,7 +15,7 @@
 </div>
 
 <div class="theme-info">
-  Theme by <a class="theme-link" href="http://blog.guxiangfly.cn">idhyt</a>.<a class="theme-link" href="https://github.com/idhyt/hexo-theme-next/tree/magiclamp">{{ theme.scheme }}</a>
+  Theme by <a class="theme-link" href="http://blog.guxiangfly.cn">guxiangfly</a>.<a class="theme-link" href="https://github.com/GuXiangFly/next-guxiangfly">next-guxiangfly</a>
 </div>
 
 <!-- busuanzi -->

@@ -8,7 +8,8 @@
     color: black;
 }
 
-body { background:url(http://img.blog.csdn.net/20170627211902507?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbXlfX1N1bl8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast);
+
+body { background:url(/images/background.jpg);
 background-position: center center;
     background-size: auto;
     background-repeat: repeat;
@@ -155,7 +156,7 @@ a:hover {
 
 
 #posts .post-type-normal{
-	    color: #E2D6D6;
+	    color: #f5f5f5;
 }
 
 .header {
