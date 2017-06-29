@@ -1,18 +1,14 @@
-## Mala Theme
+## the theme of guxiangfly
 
-[black theme](https://github.com/idhyt/hexo-theme-next/tree/magiclamp) is ongoing...
+###you can view  it from [blog.guxiangfly.cn](http://blog.guxiangfly.cn)
 
-![blog-theme-mala](http://7xi9s3.com1.z0.glb.clouddn.com/blog-theme-magiclamp-black.png)
+![blog-theme-mala](http://img.blog.csdn.net/20170629203221120?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbXlfX1N1bl8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
-## Usage
+---
+##thanks
+**感谢   [idhyt](https://github.com/idhyt)**
 
-1.cd `/themes`
+这个theme有不少借鉴自
+[https://github.com/idhyt/hexo-theme-next/tree/magiclamp](https://github.com/idhyt/hexo-theme-next/tree/magiclamp)
 
-2.git clone -b magiclamp git@github.com:idhyt/hexo-theme-next.git
-
-3.mv hexo-theme-next magiclamp
-
-4.modify `_config.yml` => `theme: magiclamp`
-
-5.modify `themes/magiclamp/_config.yml` => `scheme: Mala`
