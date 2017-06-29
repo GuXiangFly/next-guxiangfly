@@ -1,0 +1,4 @@
+
+# Ignore unused verdors' files
+source/vendors/fancybox/*
+!source/vendors/fancybox/source/

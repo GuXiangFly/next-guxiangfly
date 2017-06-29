@@ -1,0 +1,181 @@
+// Custom of Mala scheme.
+
+// over write code color
+
+
+.main-inner .content {
+    width: 700px;
+    color: black;
+}
+
+body { background:url(http://img.blog.csdn.net/20170627211902507?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbXlfX1N1bl8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast);
+background-position: center center;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size:cover
+
+}
+.post code {
+    background: none;
+    color: $gainsboro;
+    text-shadow: 0 0px #fff;
+}
+
+// post next article
+.post-nav-item a {
+    color: $gray-lighter;
+}
+
+// search input
+.site-search input {
+    border-bottom: 1px solid $blue-bright;
+    color: $gray-lighter;
+}
+
+// 归档
+.posts-collapse .post-title a {
+  color: $grey-light;
+  border-bottom: none;
+}
+
+// prev next
+.post-nav-item {
+  a:hover {
+    color: $blue-bright;
+  }
+}
+
+// post tags
+.posts-expand .post-tags a:hover {
+    background: none;
+    color: $blue-bright;
+}
+
+// blockquote
+blockquote {
+    color: $grey-light;
+}
+
+// Blockquote with all children centered.
+.blockquote-center {
+  
+  &::before, &::after {
+    background: none;
+  }
+}
+
+// footer info text color
+.powered-by, .theme-info, .busuanzi-info { 
+  a {
+    color: $grey-dark;
+  }
+}
+
+.busuanzi-info { 
+  
+}
+
+
+a:hover {
+  border-bottom-color: $blue-bright;
+}
+
+.menu .menu-item a:hover {
+  background: none;
+  color: $blue-bright; 
+}
+
+.post-more-link a:hover {
+  border-bottom-color: $blue-bright;
+}
+
+.btn:hover {
+  // border-color: $blue-bright;
+  color: $gray-lighter;
+  background: none;
+}
+
+// not show in mobile
+#idhyt-surprise-ball {
+  +mobile() {
+    display: none;
+  }
+}
+
+#idhyt-surprise-ball-animation {
+  +mobile() {
+    display: none;
+  }
+}
+
+#assist_btn {
+  +mobile() {
+    display: none;
+  }
+}
+
+
+.posts-expand .post-title-link {
+   display: inline-block;
+   position: relative;
+    color: #F7F7F7;
+   border-bottom: none;
+   line-height: 1.2;
+   vertical-align: top;
+}
+
+
+
+.one-column .main-inner {
+    background-color: rgba(99, 99, 99, 0.65);
+     padding: 54px;
+    padding-top: 12px;
+}
+
+.footer {
+   
+    color: #31212B;
+    background-color: rgba(99, 99, 99, 0.65);
+}
+
+.post-more-link a {
+    padding: 0;
+    font-size: 16px;
+    color: #F7F7F7;
+    background: none;
+    border: none;
+    border-bottom: 2px solid #666;
+    transition-property: border;
+}
+.posts-expand .post-meta {
+
+    color: #E2D6D6;
+}
+
+
+#posts .post-type-normal{
+	    color: #f5f5f5;
+}
+
+.header {
+    background: rgba(99, 99, 99, 0.65);
+}
+
+.one-column .footer-inner {
+  color: #ddd;
+}
+
+@media (max-width: 767px) {
+ .main-inner .content{
+ 	width:auto;
+ 	padding: 10px;
+ }
+}
+
+
+@media (max-width: 767px) {
+  .posts-expand {
+    margin: 0 -20px;
+  }
+ }
