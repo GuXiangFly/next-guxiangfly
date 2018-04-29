@@ -5,7 +5,7 @@ menu:
   archives: /archives
   tags: /tags
   about: /about
-  search: 搜索
+  #search: 搜索
   #commonweal: /404.html
 
 
@@ -14,7 +14,7 @@ social:
   GitHub: https://github.com/guxiangfly
   Twitter: https://twitter.com/your-user-name
   微博: http://weibo.com/your-user-name
-  知乎: https://www.zhihu.com/people/yue-zui-78/activities
+  知乎: https://www.zhihu.com/people/guxiangfly/activities
 
 
 # Social Icons
@@ -22,7 +22,6 @@ social_icons:
   enable: true
   # Icon Mappings
   GitHub: github
-  Twitter: Twitter
   微博: weibo
   知乎: fa-envelope-open
 
@@ -30,7 +29,7 @@ social_icons:
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo,Mala"
+keywords: "Hexo,guxiangfly"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.

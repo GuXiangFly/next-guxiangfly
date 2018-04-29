@@ -9,7 +9,7 @@
 }
 
 
-body { background:url(http://img.blog.csdn.net/20170627211902507?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbXlfX1N1bl8=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast);
+body { background:url(http://p5uenqci6.bkt.clouddn.com/blog/180422/j6ggLB6FfK.jpg);
 background-position: center center;
     background-size: auto;
     background-repeat: repeat;
@@ -129,9 +129,13 @@ a:hover {
 
 
 .one-column .main-inner {
-    background-color: rgba(99, 99, 99, 0.65);
+    background-color: rgba(99, 99, 99, 0.85);
      padding: 54px;
     padding-top: 12px;
+}
+
+.one-column .footer-inner {
+  color: #ddd;
 }
 
 .footer {
@@ -153,7 +157,12 @@ a:hover {
 
     color: #E2D6D6;
 }
-
+.posts-expand {
+    color: aliceblue;
+}
+.main-inner .content {
+  color: aliceblue;
+}
 
 #posts .post-type-normal{
 	    color: #f5f5f5;

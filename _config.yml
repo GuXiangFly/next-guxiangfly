@@ -1,7 +1,7 @@
 # when running hexo in a subdirectory (e.g. domain.tld/blog), remove leading slashes ( "/archives" -> "archives" )
 menu:
   home: /
-  categories: /categories
+  #categories: /categories
   archives: /archives
   tags: /tags
   about: /about
@@ -22,7 +22,6 @@ social_icons:
   enable: true
   # Icon Mappings
   GitHub: github
-  Twitter: Twitter
   微博: weibo
   知乎: fa-envelope-open
 
@@ -30,7 +29,7 @@ social_icons:
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo,Mala"
+keywords: "Hexo,guxiangfly"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
